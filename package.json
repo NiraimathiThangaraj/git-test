@@ -1,0 +1,29 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "test directory to learn Git & Node",
+  "main": "index.html",
+  "scripts": {
+  "start":"npm run lite",
+    "test": "git repository https://github.com/NiraimathiThangaraj/git-test",
+	"lite":"lite-server" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiraimathiThangaraj/git-test.git"
+  },
+  "keywords": [
+    "author",
+    ":",
+    "Niraimathi"
+  ],
+  "author": "Niraimathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiraimathiThangaraj/git-test/issues"
+  },
+  "homepage": "https://github.com/NiraimathiThangaraj/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
